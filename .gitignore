@@ -1,4 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+# Jeklly default .gitignore
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
+vendor
+
+# Custom
+_posts_examples
