@@ -27,9 +27,9 @@ tags:
 
 <a href="https://www.vultr.com/?ref=8737078-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
 
-<center>위 배너를 통해 가입시 가입자에게 100$ 글쓴이에게 25$ 크레딧이 지급됩니다.</center>
+위 배너를 통해 가입시 가입자에게 100$ 글쓴이에게 25$ 크레딧이 지급됩니다.
 
-
+<br/>
 
 가입전 [SpeedTest](https://www.vultr.com/resources/faq/#downloadspeedtests){:target="_blank"} 페이지를 통해 사용하려는 리전의 속도를 테스트 해 볼 수 있습니다.
 
