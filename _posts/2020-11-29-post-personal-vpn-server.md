@@ -31,7 +31,7 @@ tags:
 
 <br/>
 
-가입전 [SpeedTest](https://www.vultr.com/resources/faq/#downloadspeedtests){:target="_blank"} 페이지를 통해 사용하려는 리전의 속도를 테스트 해 볼 수 있습니다.
+가입전 [SpeedTest](https://www.vultr.com/resources/faq/?ref=8737078-6G#downloadspeedtests){:target="_blank"} 페이지를 통해 사용하려는 리전의 속도를 테스트 해 볼 수 있습니다.
 
 ![SpeedTest](/assets/images/personal-vpn-server/SpeedTest.png)
 
