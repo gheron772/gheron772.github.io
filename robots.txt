@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gheron772.github.io/sitemap.xml
