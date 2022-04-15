@@ -28,7 +28,7 @@ tags:
 
 
 
-<a href="https://www.vultr.com/?ref=8955219-8H"><img src="https://www.vultr.com/media/logo_ondark.png" width="349" height="84"></a>
+<a href="https://www.vultr.com/?ref=8955219-8H"><img src="https://www.vultr.com/media/logo_ondark.png" width="219" height="53"></a>
 
 위 배너를 통해 가입시 가입자에게 100$ 글쓴이에게 35$ 크레딧이 지급됩니다.
 
